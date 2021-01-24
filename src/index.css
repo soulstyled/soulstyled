@@ -3,3 +3,25 @@
 @tailwind utilities;
 
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+@layer utilities {
+    .max-w-portrait {
+        max-width: 620px;
+    }
+}
+
+p {
+    @apply mb-4;
+}
+
+a {
+    @apply font-medium;
+    box-shadow: inset 0 -0.125em 0 0 #fff, inset 0 -0.9em 0 0 rgba(165, 188, 252, 0.4); 	
+    /* color: #0e7490;
+    color: blue;*/
+
+}
+
+a:hover {
+    box-shadow: inset 0 -0.125em 0 0 #fff, inset 0 -0.9em 0 0 rgba(239, 255, 100, 0.4); 
+   }
