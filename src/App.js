@@ -17,9 +17,9 @@ function App() {
           <span className="pr-4 w-9 flex-shrink-0">
             <Icon type='talks' />
           </span>
-          <p className="m-0 pt-2.5">I love to talk and chat about my work on podcasts and conferences - or just for networking. If you are all into webdevelopment and headless ecommerce in particular, let's connect!</p>
+          <p className="m-0 pt-2.5">I love to talk and chat on podcasts and conferences - or just for networking. If you are all into webdevelopment and headless ecommerce in particular, let's connect!</p>
         </div>
-          <p><i>Wanna talk?</i> Follow me on <a href="https://twitter.com/soulstyled_de" target="_blank" rel="noopener noreferrer">@soulstyled_de on twitter</a> or send me an <a href="mailto:michael@soulstyled.de" rel="noopener noreferrer">email</a>.</p>
+          <p><i>Wanna talk?</i> Follow <a href="https://twitter.com/soulstyled_de" target="_blank" rel="noopener noreferrer">@soulstyled_de on twitter</a> or send me an <a href="mailto:michael@soulstyled.de" rel="noopener noreferrer">email</a>.</p>
         </div>
         
         
